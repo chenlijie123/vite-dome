@@ -6,6 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+package-lock.json
+yarn.lock
 
 node_modules
 .DS_Store
@@ -21,9 +23,10 @@ coverage
 .vscode/*
 !.vscode/extensions.json
 .idea
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.history
+.history/*
