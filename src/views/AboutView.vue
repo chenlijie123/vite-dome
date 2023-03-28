@@ -2,7 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
     <div class="notes">
-      <span class="nt-text">2222222</span>
+      <span class="nt-text">22222223</span>
     </div>
   </div>
 </template>
